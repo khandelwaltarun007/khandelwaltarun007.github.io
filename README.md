@@ -1,43 +1,33 @@
-# 💼 Tarun Khandelwal
-
-📞 **Phone:** +91 8349702925  
-📧 **Email:** khandelwaltarun007@gmail.com  
-📍 **Location:** Magarpatta City, Pune - 411028  
+# Tarun Khandelwal – Software Development & Leadership Portfolio
 
 ---
 
-## 🎯 Objective
-Looking for a career within a leading corporate of hi-tech environment with committed & dedicated people, which will help me to explore myself fully.  
-Willing to work as a key player in a challenging & creative environment.
+## 💼 Professional Experience
 
----
-
-## 🏢 Work Experience
-
-### Vodafone India Services Private Limited (_VOIS), Pune  
-**Manager (Software Development Team Lead)** — *May 2023 – Present*  
-- Developed microservices and implemented business logic.  
+### Vodafone India Services Private Limited (VOIS), Pune
+**Manager – Software Development Team Lead** | *May 2023 – Present*  
+- Developed microservices and implemented business logic for production systems.  
 - Delivered production-ready code and test artifacts.  
-- Led Agile ceremonies and team management.  
-- Conducted code reviews, refactoring, and bug fixing.  
+- Led Agile ceremonies and managed a team of developers.  
+- Conducted code reviews, refactoring, and bug fixing.
 
 ---
 
-### Amdocs Development Center India LLP, Pune  
+### Amdocs Development Center India LLP, Pune
 
-**Scrum Master** — *Oct 2022 – May 2023*  
+**Scrum Master** | *Oct 2022 – May 2023*  
 - Facilitated Scrum events and sprint planning.  
-- Removed blockers and managed dependencies across teams.  
-- Provided technical analysis and supported solution closure with PO/DSE.  
-- Represented team progress and blockers in management meetings.  
+- Removed blockers and managed cross-team dependencies.  
+- Provided technical analysis and supported solution closure.  
+- Reported team progress and blockers in management meetings.  
 
-**Senior Software Developer** — *Oct 2021 – Sept 2022*  
+**Senior Software Developer** | *Oct 2021 – Sept 2022*  
 - Acted as Scrum Master alongside development responsibilities.  
 - Integrated Amdocs products (Ordering, Billing, Digital, etc.).  
 - Delivered new features and enhancements to B-UAT.  
-- Guided new joiners with training and mentorship.  
+- Mentored and trained new joiners.  
 
-**Software Developer** — *Nov 2018 – Oct 2021*  
+**Software Developer** | *Nov 2018 – Oct 2021*  
 - Designed and delivered product enhancements.  
 - Fixed defects and collaborated with cross-functional teams.  
 - Onboarded and trained new developers.  
@@ -45,10 +35,10 @@ Willing to work as a key player in a challenging & creative environment.
 ---
 
 ### Atos Global IT Solutions and Services Pvt. Ltd., Pune  
-**Software Engineer** — *Apr 2016 – Nov 2018*  
+**Software Engineer** | *Apr 2016 – Nov 2018*  
 - Gathered requirements and performed technical analysis.  
 - Developed and enhanced enterprise applications.  
-- Deployed builds to PROD environments.  
+- Deployed builds to production environments.  
 
 ---
 
@@ -57,21 +47,21 @@ Willing to work as a key player in a challenging & creative environment.
 - **Languages:** Java  
 - **Databases:** MySQL, Oracle 10G, MongoDB, PostgreSQL  
 - **Frameworks:** Spring Boot, Hibernate, Amdocs CRM framework, Angular (Beginner)  
-- **Tools & Tech:** Jenkins, Docker, Git, Perforce, BitBucket, AWS (EC2, S3, RDS, Lambda)  
+- **Tools & Technologies:** Jenkins, Docker, Git, Perforce, BitBucket, AWS (EC2, S3, RDS, Lambda)  
 - **IDEs:** Eclipse, STS, IntelliJ IDEA  
-- **Testing:** Postman, SOAP UI  
+- **Testing Tools:** Postman, SOAP UI  
 
 ---
 
-## 📂 Projects
+## 📂 Key Projects
 
 ### Vodafone  
 
-**Vodafone Albania (Digital BSS)** — *Senior Software Developer*  
+**Vodafone Albania (Digital BSS)** – Senior Software Developer  
 *Jan 2024 – Present*  
 Tech Stack: Spring Boot, Swagger, Tomcat, IntelliJ, PostgreSQL, Docker, Vagrant, MongoDB, Jenkins, GitHub, Camunda BPM, ELK Stack, Microservices  
 
-**Vodafone Ireland CRM Framework** — *Team Lead*  
+**Vodafone Ireland CRM Framework** – Team Lead  
 *May 2023 – Jan 2024*  
 Tech Stack: CRM Framework, Swing, Spring, Hibernate, WebLogic, Oracle 11c, Jenkins, Restful Services  
 
@@ -79,11 +69,11 @@ Tech Stack: CRM Framework, Swing, Spring, Hibernate, WebLogic, Oracle 11c, Jenki
 
 ### Amdocs  
 
-**3 Ireland CRM Framework** — *Scrum Master*  
+**3 Ireland CRM Framework** – Scrum Master  
 *Oct 2020 – May 2023*  
 Tech Stack: CRM Framework, Swing, Spring, Hibernate, WebLogic, Oracle 11c, Jenkins, Spring Boot, Restful Services  
 
-**Beeline CRM Framework** — *Software Developer*  
+**Beeline CRM Framework** – Software Developer  
 *Nov 2018 – Oct 2020*  
 Tech Stack: CRM Framework, Spring, Hibernate, WebLogic, Oracle 10g, Jenkins  
 
@@ -91,46 +81,44 @@ Tech Stack: CRM Framework, Spring, Hibernate, WebLogic, Oracle 10g, Jenkins
 
 ### Atos  
 
-**HWS MyToolBox (Hardware Services)** — *Software Engineer*  
-*Apr 2016 – Nov 2018* | Client: Nokia | Team Size: 15  
+**HWS MyToolBox (Hardware Services)** – Software Engineer  
+*Apr 2016 – Nov 2018* | Client: Nokia  
 Tech Stack: J2SE, J2EE, JavaScript, ExtJs, Groovy & Grails, HTML, Tomcat 6.0, Oracle 10g, Shell, Jenkins  
-
-**Summary:**  
-Centralized portal for managing hardware tools and user access rights. Supported sales orders, purchase orders, and forecasting materials based on historical data. Widely adopted by global internal and external collaborators.  
+- Centralized portal for managing hardware tools and user access rights.  
+- Supported sales orders, purchase orders, and forecasting materials based on historical data.  
 
 ---
-## 🚀 Personal Projects
+
+## 🚀 Personal & Open Source Projects
 
 **Kubernetes Logs Downloader**  
-- A CLI/utility tool to **fetch and download logs from Kubernetes clusters**.  
-- Simplifies debugging and monitoring by aggregating logs across pods and namespaces.  
-- Tech Stack: Python, Kubernetes API.  
+- CLI utility to fetch and download logs from Kubernetes clusters.  
+- Simplifies debugging and monitoring across pods and namespaces.  
+- Tech Stack: Python, Kubernetes API  
 - [GitHub Repository](https://github.com/khandelwaltarun007/k8s-logs-downloader)  
 
 **SmartShop (Inventory Management System)**  
-- Full-stack web application for **managing inventory, orders, and suppliers**.  
+- Full-stack web app for managing inventory, orders, and suppliers.  
 - Features: product tracking, sales reporting, and user management.  
-- Tech Stack: Spring Boot, Angular, PostgreSQL, Docker.  
+- Tech Stack: Spring Boot, Angular, PostgreSQL, Docker  
 - [GitHub Repository](https://github.com/khandelwaltarun007/smartshop)  
 
-### Academic & Training Projects  
-
-- **Smart City Guider** (CDAC, Bangalore) — Java web app for city information and navigation.  
-- **Steel or Split** (CDOT, Delhi) — JSP web app simulation of Prisoner’s Dilemma.  
+**Academic & Training Projects**  
+- **Smart City Guider** (CDAC, Bangalore) – Java web app for city info and navigation.  
+- **Steel or Split** (CDOT, Delhi) – JSP web app simulating the Prisoner’s Dilemma.  
 
 ---
 
 ## 🎓 Education
 
-- **PG-DAC** — CDAC, Aug 2015 – Feb 2016 | 72.13%  
-- **B.E.** — Shri Ram Institute of Information Technology, 2011 – 2015 | CGPA 7.73  
-- **H.S.C.** — Kiddies Corner H.S. School, Mar 2011 | 80%  
-- **S.S.C.** — Kiddies Corner H.S. School, Mar 2009 | 73.33%  
+- **PG-DAC** — CDAC, 2015–2016 | 72.13%  
+- **B.E. (Information Technology)** — Shri Ram Institute of IT, 2011–2015 | CGPA 7.73  
 
 ---
 
-## ✅ Declaration  
-I hereby declare that the information furnished above is true to the best of my knowledge.  
+## ⚡ Summary
 
-📍 Pune  
-✍️ *Tarun Khandelwal*  
+- Experienced in **Java, Spring Boot, Hibernate, Microservices, and CRM frameworks**.  
+- Skilled in **team leadership, Agile methodologies, and project delivery**.  
+- Passionate about **open source, automation, and building scalable software solutions**.  
+
