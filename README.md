@@ -1,159 +1,123 @@
-# Tarun Khandelwal
+# 💼 Tarun Khandelwal
 
-**Phone (M):** +91 8349702925  
-**Email:** khandelwaltarun007@gmail.com  
-**Location:** Magarpatta City, Pune - 411028  
-
----
-
-## Objective
-
-Looking for a career within a leading corporate of hi-tech environment with committed & dedicated people, which will help me to explore myself fully. Willing to work as a key player in a challenging & creative environment.
+📞 **Phone:** +91 8349702925  
+📧 **Email:** khandelwaltarun007@gmail.com  
+📍 **Location:** Magarpatta City, Pune - 411028  
 
 ---
 
-## Work Experience
+## 🎯 Objective
+Looking for a career within a leading corporate of hi-tech environment with committed & dedicated people, which will help me to explore myself fully.  
+Willing to work as a key player in a challenging & creative environment.
+
+---
+
+## 🏢 Work Experience
 
 ### Vodafone India Services Private Limited (_VOIS), Pune  
 **Manager (Software Development Team Lead)** — *May 2023 – Present*  
-- Development of microservices and implementing the business logic and delivering code for testing  
-- Handling the team and following the Agile methodology  
-- Code refactoring and code review  
-- Bug fixing and improvement of existing microservices  
+- Developed microservices and implemented business logic.  
+- Delivered production-ready code and test artifacts.  
+- Led Agile ceremonies and team management.  
+- Conducted code reviews, refactoring, and bug fixing.  
 
 ---
 
 ### Amdocs Development Center India LLP, Pune  
 
 **Scrum Master** — *Oct 2022 – May 2023*  
-- Team management and handling Scrum events  
-- Eliminating external blockers and managing internal roadblocks for development  
-- Sprint planning, supporting solution team (PO/DSE) for closing solution  
-- Providing technical analysis for requirements  
-- Contribution in development and support activities  
-- Collaborating with cross-domain, testing, solution, infrastructure teams  
-- Participating in management meetings to showcase performance and blockers  
-- Handling cross application feature ownership and defect triaging  
+- Facilitated Scrum events and sprint planning.  
+- Removed blockers and managed dependencies across teams.  
+- Provided technical analysis and supported solution closure with PO/DSE.  
+- Represented team progress and blockers in management meetings.  
 
 **Senior Software Developer** — *Oct 2021 – Sept 2022*  
-- Acted as Scrum Master, handling team management and meetings  
-- Integration with Amdocs products (Ordering, Billing, Digital, etc.)  
-- Development/Enhancement of new requirements and delivery to B-UAT  
-- Collaborated with PO to close solution gaps  
-- Provided technical expertise to different accounts for critical issues  
-- Mentored and trained new joiners  
+- Acted as Scrum Master alongside development responsibilities.  
+- Integrated Amdocs products (Ordering, Billing, Digital, etc.).  
+- Delivered new features and enhancements to B-UAT.  
+- Guided new joiners with training and mentorship.  
 
 **Software Developer** — *Nov 2018 – Oct 2021*  
-- Developed/enhanced requirements and delivered to B-UAT  
-- Trained and mentored new joiners  
-- Defect fixing and collaboration with different teams  
+- Designed and delivered product enhancements.  
+- Fixed defects and collaborated with cross-functional teams.  
+- Onboarded and trained new developers.  
 
 ---
 
-### Atos Global IT Solutions and Services Private Limited, Pune  
+### Atos Global IT Solutions and Services Pvt. Ltd., Pune  
 **Software Engineer** — *Apr 2016 – Nov 2018*  
-- Requirement gathering from client  
-- Technical analysis for requirements  
-- Improvement, enhancement, and implementation  
-- Application builds and deployment on PROD server  
+- Gathered requirements and performed technical analysis.  
+- Developed and enhanced enterprise applications.  
+- Deployed builds to PROD environments.  
 
 ---
 
-## Technical Knowledge
+## 🛠 Technical Skills
 
-- **Programming Languages:** Java  
+- **Languages:** Java  
 - **Databases:** MySQL, Oracle 10G, MongoDB, PostgreSQL  
-- **Development Tools:** Eclipse, STS, IntelliJ IDE  
-- **Frameworks:** Hibernate, Spring Boot, Amdocs CRM framework, Angular (Beginner)  
-- **Tools & Technology:** Jenkins, Docker, GIT, Perforce, Bit Bucket, AWS (EC2, S3, RDS, Lambda)  
-- **Testing Tools:** Postman, SOAP UI  
+- **Frameworks:** Spring Boot, Hibernate, Amdocs CRM framework, Angular (Beginner)  
+- **Tools & Tech:** Jenkins, Docker, Git, Perforce, BitBucket, AWS (EC2, S3, RDS, Lambda)  
+- **IDEs:** Eclipse, STS, IntelliJ IDEA  
+- **Testing:** Postman, SOAP UI  
 
 ---
 
-## Project Details
+## 📂 Projects
 
 ### Vodafone  
 
-**Project Title:** Vodafone Albania (Digital BSS)  
-**Client:** Vodafone Albania  
-**Role:** Senior Software Developer  
-**Duration:** Jan 2024 – Present  
-**S/W & Tools:** Spring Boot, Swagger, Tomcat, IntelliJ, PostgreSQL, Docker, Vagrant, MongoDB, Jenkins, GitHub, Camunda BPM, ELK Stack, Microservices  
+**Vodafone Albania (Digital BSS)** — *Senior Software Developer*  
+*Jan 2024 – Present*  
+Tech Stack: Spring Boot, Swagger, Tomcat, IntelliJ, PostgreSQL, Docker, Vagrant, MongoDB, Jenkins, GitHub, Camunda BPM, ELK Stack, Microservices  
 
-**Project Title:** Vodafone Ireland CRM Framework  
-**Client:** Vodafone Ireland  
-**Role:** Software Development Team Lead  
-**Duration:** May 2023 – Jan 2024  
-**S/W & Tools:** CRM Framework, Swing, Spring, Hibernate, WebLogic, Eclipse, Oracle 11c, Jenkins, Spring Boot, Restful Services  
+**Vodafone Ireland CRM Framework** — *Team Lead*  
+*May 2023 – Jan 2024*  
+Tech Stack: CRM Framework, Swing, Spring, Hibernate, WebLogic, Oracle 11c, Jenkins, Restful Services  
 
 ---
 
 ### Amdocs  
 
-**Project Title:** 3 Ireland CRM Framework  
-**Client:** 3 Ireland  
-**Role:** Scrum Master  
-**Duration:** Oct 2020 – May 2023  
-**S/W & Tools:** CRM Framework, Swing, Spring, Hibernate, WebLogic, Eclipse, Oracle 11c, Jenkins, Spring Boot, Restful Services  
+**3 Ireland CRM Framework** — *Scrum Master*  
+*Oct 2020 – May 2023*  
+Tech Stack: CRM Framework, Swing, Spring, Hibernate, WebLogic, Oracle 11c, Jenkins, Spring Boot, Restful Services  
 
-**Project Title:** Beeline CRM Framework  
-**Client:** Beeline  
-**Role:** Software Developer  
-**Duration:** Nov 2018 – Oct 2020  
-**S/W & Tools:** CRM Framework, Spring, Hibernate, WebLogic, Eclipse, Oracle 10g, Jenkins  
+**Beeline CRM Framework** — *Software Developer*  
+*Nov 2018 – Oct 2020*  
+Tech Stack: CRM Framework, Spring, Hibernate, WebLogic, Oracle 10g, Jenkins  
 
 ---
 
 ### Atos  
 
-**Project Title:** HWS MyToolBox (Hardware Services)  
-**Client:** NOKIA  
-**Role:** Software Engineer  
-**Team Size:** 15  
-**Duration:** Apr 2016 – Nov 2018  
-**S/W & Tools:** J2SE, J2EE, JavaScript, ExtJs, Groovy and Grails, HTML, Apache Tomcat 6.0, Eclipse, Oracle 10g, Shell, Jenkins  
+**HWS MyToolBox (Hardware Services)** — *Software Engineer*  
+*Apr 2016 – Nov 2018* | Client: Nokia | Team Size: 15  
+Tech Stack: J2SE, J2EE, JavaScript, ExtJs, Groovy & Grails, HTML, Tomcat 6.0, Oracle 10g, Shell, Jenkins  
 
-**Project Summary:**  
-HWS My Toolbox is the central portal web application that maintains the list of tools and manages user access rights. This system is used for reporting and processing transactional data such as sales orders, purchase orders and forecasting of materials required in future based on historical data.  
-HWS MyToolbox application is heavily used by the MyToolbox community, including internal and external collaborators. It provides a full range of services in categories like Supply, Repair, Planning and Return.  
+**Summary:**  
+Centralized portal for managing hardware tools and user access rights. Supported sales orders, purchase orders, and forecasting materials based on historical data. Widely adopted by global internal and external collaborators.  
 
 ---
 
-### CDAC Project  
+### Academic & Training Projects  
 
-**Organization:** Centre for Development of Advanced Computing (CDAC), Bangalore KP  
-**Technology:** Java Web Application  
-**Project Title:** Smart City Guider  
-
-**Description:**  
-A Java-based web application enabling new visitors or residents to get city information and directions for their needs.  
+- **Smart City Guider** (CDAC, Bangalore) — Java web app for city information and navigation.  
+- **Steel or Split** (CDOT, Delhi) — JSP web app simulation of Prisoner’s Dilemma.  
 
 ---
 
-### Industrial Training  
+## 🎓 Education
 
-**Organization:** Centre for Development of Telematics (CDOT), Delhi  
-**Technology:** JSP Web Application  
-**Project Title:** Steel or Split  
-**Duration:** 45 Days  
-
-**Description:**  
-A JSP Web application based on the theory of Prisoner’s Dilemma.  
+- **PG-DAC** — CDAC, Aug 2015 – Feb 2016 | 72.13%  
+- **B.E.** — Shri Ram Institute of Information Technology, 2011 – 2015 | CGPA 7.73  
+- **H.S.C.** — Kiddies Corner H.S. School, Mar 2011 | 80%  
+- **S.S.C.** — Kiddies Corner H.S. School, Mar 2009 | 73.33%  
 
 ---
 
-## Academic Profile
-
-- **PG-DAC** — Aug 2015 – Feb 2016, Centre for Development of Advanced Computing (CDAC), 72.13%  
-- **B.E.** — 2011 – 2015, Shri Ram Institute of Information Technology, Banmore, Gwalior, CGPA 7.73  
-- **H.S.C.** — Mar 2011, Kiddies Corner H.S. School, Lashkar Gwalior (M.P.), 80.00%  
-- **S.S.C.** — Mar 2009, Kiddies Corner H.S. School, Lashkar Gwalior (M.P.), 73.33%  
-
----
-
-## Declaration
-
+## ✅ Declaration  
 I hereby declare that the information furnished above is true to the best of my knowledge.  
 
-**Place:** Pune  
-**Name:** Tarun Khandelwal  
+📍 Pune  
+✍️ *Tarun Khandelwal*  
