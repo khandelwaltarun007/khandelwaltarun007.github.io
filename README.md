@@ -101,7 +101,7 @@ Tech Stack: J2SE, J2EE, JavaScript, ExtJs, Groovy & Grails, HTML, Tomcat 6.0, Or
 - Full-stack web app for managing inventory, orders, and suppliers.  
 - Features: product tracking, sales reporting, and user management.  
 - Tech Stack: Spring Boot, Angular, PostgreSQL, Docker  
-- [GitHub Repository](https://github.com/khandelwaltarun007/smartshop)  
+- [GitHub Repository](https://github.com/smartshop-ims)  
 
 **Academic & Training Projects**  
 - **Smart City Guider** (CDAC, Bangalore) – Java web app for city info and navigation.  
