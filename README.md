@@ -104,13 +104,13 @@ Centralized portal for managing hardware tools and user access rights. Supported
 **Kubernetes Logs Downloader**  
 - A CLI/utility tool to **fetch and download logs from Kubernetes clusters**.  
 - Simplifies debugging and monitoring by aggregating logs across pods and namespaces.  
-- Tech Stack: Go / Python, Kubernetes API, Docker.  
+- Tech Stack: Python, Kubernetes API.  
 - [GitHub Repository](https://github.com/khandelwaltarun007/k8s-logs-downloader)  
 
 **SmartShop (Inventory Management System)**  
 - Full-stack web application for **managing inventory, orders, and suppliers**.  
 - Features: product tracking, sales reporting, and user management.  
-- Tech Stack: Spring Boot, Angular, MySQL, Docker.  
+- Tech Stack: Spring Boot, Angular, PostgreSQL, Docker.  
 - [GitHub Repository](https://github.com/khandelwaltarun007/smartshop)  
 
 ### Academic & Training Projects  
