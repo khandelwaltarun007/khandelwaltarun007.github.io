@@ -99,6 +99,19 @@ Tech Stack: J2SE, J2EE, JavaScript, ExtJs, Groovy & Grails, HTML, Tomcat 6.0, Or
 Centralized portal for managing hardware tools and user access rights. Supported sales orders, purchase orders, and forecasting materials based on historical data. Widely adopted by global internal and external collaborators.  
 
 ---
+## 🚀 Personal Projects
+
+**Kubernetes Logs Downloader**  
+- A CLI/utility tool to **fetch and download logs from Kubernetes clusters**.  
+- Simplifies debugging and monitoring by aggregating logs across pods and namespaces.  
+- Tech Stack: Go / Python, Kubernetes API, Docker.  
+- [GitHub Repository](https://github.com/khandelwaltarun007/kubernetes-logs-downloader)  
+
+**SmartShop (Inventory Management System)**  
+- Full-stack web application for **managing inventory, orders, and suppliers**.  
+- Features: product tracking, sales reporting, and user management.  
+- Tech Stack: Spring Boot, Angular, MySQL, Docker.  
+- [GitHub Repository](https://github.com/khandelwaltarun007/smartshop)  
 
 ### Academic & Training Projects  
 
